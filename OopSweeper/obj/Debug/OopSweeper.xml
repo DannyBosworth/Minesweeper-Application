@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OopSweeper
+</name>
+</assembly>
+<members>
+<member name="T:OopSweeper.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._1Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._1CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._2Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._2CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._3Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._3CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._4Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._4CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._5Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._5CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._6Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._6CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._7Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._7CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._8Cell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources._8CellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.BlankCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.BlankCellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.FlagCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.GuessCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.LostMineCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.MineCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.OpenedMineCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.ResetButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.ResetButtonLost">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.ResetButtonWon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.SafeCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.UnknownCell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:OopSweeper.My.Resources.Resources.UnknownCellEnlarged">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
