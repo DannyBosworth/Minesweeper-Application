@@ -2,7 +2,7 @@
 
 Modular Object-Oriented WinForms application including a full implementation of Minesweeoper, a solver, a custom board creator and a stats tracker created to the specification of an end user.
 
-FULL REPORT AND DETAILED ANALYSIS OF THE PROJECT - 
+[FULL REPORT AND DETAILED ANALYSIS OF THE PROJECT](Report and Testing/Project Report.pdf)
 
 ## The Game
 
